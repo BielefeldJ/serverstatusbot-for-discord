@@ -6,8 +6,7 @@ This bot will also write every process change into a Discord Channel.
 
 =====================
 
-[![Python3](https://img.shields.io/badge/python-3.6-blue.svg)]
-[![Discord Server](https://img.shields.io/badge/Support-Discord%20Server-blue.svg)](https://discord.gg/kPMbPDc)
+![Python3](https://img.shields.io/badge/python-3.6-blue.svg)
 
 
 **ATTENTION: This bot uses the new rewriten version of [discord.py v1.0](https://github.com/Rapptz/discord.py/tree/rewrite)**
