@@ -1,0 +1,1 @@
+# serverstatusbot-for-discord
